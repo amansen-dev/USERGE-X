@@ -1,7 +1,7 @@
-<h2 align="center"><b>Owner: <a href="https://telegram.dog/deleteduser420">𝚂𝚢𝚗𝚝𝚊𝚡 ░ Σrr♢r</a></b></h2>
+<h2 align="center"><b>MODDER: <a href="https://telegram.dog/xamanx">𝚂𝚢𝚗𝚝𝚊𝚡 ░ AmaN</a></b></h2>
 <br>
 <p align="center">
-   <a href="https://github.com/code-rgb/USERGE-X"><img src="https://i.imgur.com/53mdl2v.png" alt="Userge-x" width=400px></a>
+   <a href="https://github.com/code-rgb/USERGE-X"><img src="https://telegra.ph/logo-06-11-3" alt="Userge-x" width=400px></a>
    <br>
    <br>
 </p>
