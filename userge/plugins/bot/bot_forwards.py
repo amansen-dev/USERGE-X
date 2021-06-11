@@ -156,7 +156,7 @@ if userge.has_bot:
         firstname = get_mem.first_name
         user_id = get_mem.id
         if user_id in Config.OWNER_ID:
-            await start_ban.edit(r"I Can't Ban You My Master")
+            await start_ban.edit(r"I Can't Ban You My Master Aman")
             return
         if user_id in Config.SUDO_USERS:
             await start_ban.edit(
