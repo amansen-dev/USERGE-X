@@ -1,7 +1,7 @@
 <h2 align="center"><b>MODDER: <a href="https://telegram.dog/xamanx">𝚂𝚢𝚗𝚝𝚊𝚡 ░ AmaN</a></b></h2>
 <br>
 <p align="center">
-   <a href="https://github.com/code-rgb/USERGE-X"><img src="https://telegra.ph/logo-06-11-3" alt="Userge-x" width=400px></a>
+   <a href="https://github.com/amansen-dev/USERGE-X"><img src="https://telegra.ph/logo-06-11-3" alt="Userge-x" width=400px></a>
    <br>
    <br>
 </p>
@@ -57,7 +57,7 @@
 ## How To Deploy 
 * With Heroku:
 <p align="center">
-   <a href = "https://heroku.com/deploy?template=https://github.com/code-pms/MyGpack"><img src="https://telegra.ph/file/57c4edb389224c9cf9996.png" alt="Press to Takeoff" width="490px"></a>
+   <a href = "https://heroku.com/deploy?template=https://github.com/code-pms/MyGpack"><img src="https://telegra.ph/logo-06-11-3" alt="Press to Takeoff" width="490px"></a>
 </p>
 <br>
 
@@ -80,7 +80,7 @@
 ## Other Ways
 
 * With Docker 🐳 
-    <a href="https://github.com/code-rgb/USERGE-X/blob/alpha/resources/readmeDocker.md"><b>See Detailed Guide</b></a>
+    <a href="https://github.com/amansen-dev/USERGE-X/blob/alpha/resources/readmeDocker.md"><b>See Detailed Guide</b></a>
 
 * With Git, Python and pip 🔧
   ```bash
